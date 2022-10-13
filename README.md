@@ -2,9 +2,9 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: [Hồ Văn Hiệu - 19521497]
+- Member: [Dương Minh Thành - 17521044]
+- Member: [Nguyễn Thị Minh Loan - 20521542]
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
